@@ -43,11 +43,14 @@ En este caso elegí **YouTube**
 
 ### Ayuda visual
 
-1. Pantalla principal:
+**1. Pantalla principal:**
+
 ![YouTube pantalla 1](assets/img-youtube1.png)
 
-2. Reproducción de videos:
+**2. Reproducción de videos:**
+
 ![YouTube pantalla 2](assets/img-youtube2.png)
 
-2. Comentarios:
+**3. Comentarios:**
+
 ![YouTube pantalla 3](assets/img-youtube3.png)
